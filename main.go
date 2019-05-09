@@ -15,5 +15,5 @@ func main() {
     // want to call a function within the fmt
     // package called Println() in order to print
     // out `Hello World`
-	fmt.Println("Hello World")
+	fmt.Println("Hello World 2")
 }
